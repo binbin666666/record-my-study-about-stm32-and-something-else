@@ -423,3 +423,9 @@ revert：回滚到上一个版本。
 merge：代码合并。
 
 sync：同步主线或分支的Bug。
+
+
+
+
+
+git log后不能退出按q即可
